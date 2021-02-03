@@ -1,5 +1,5 @@
 # Password Generator
-
+This password generator creates a random password between 8 and 128 characters in length and allows the user to select certain criteria that the password must meet. Inlcuding upper and lowercase letters, numbers, and symbols. 
 # Technology used 
   * CSS 
   * HTML 
@@ -7,7 +7,7 @@
   
  # Url 
   * Github Repo: https://github.com/JuanBoza/Password-Generator-
-  * Deployed aplication: 
+  * Deployed application: https://juanboza.github.io/Password-Generator-/
   
  # Screenshots 
 ![homework three screenshot ](https://user-images.githubusercontent.com/70541910/106566091-0e9b0800-64ed-11eb-86ec-2ae86b850fa0.png)
